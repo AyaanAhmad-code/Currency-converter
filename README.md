@@ -27,13 +27,13 @@ cd currency-converter
 
 🧰 Technologies Used
 
-#HTML5 – structure and layout
+ - HTML5 – structure and layout
 
-#CSS3 – styling and responsiveness
+ - CSS3 – styling and responsiveness
 
-#JavaScript (ES6+) – logic and API integration
+ - JavaScript (ES6+) – logic and API integration
 
-#API – Exchange rate data (e.g., ExchangeRate API, exchangerate.host, etc.)
+ - API – Exchange rate data (e.g., ExchangeRate API, exchangerate.host, etc.)
 
 🗂️ Project Structure
 
@@ -45,15 +45,15 @@ currency-converter/
 
 ⚙️ How It Works
 
-#The user selects a source and target currency.
+ - The user selects a source and target currency.
 
-#Enters the amount to convert.
+ - Enters the amount to convert.
 
-#JavaScript fetches the latest exchange rate from the API.
+ - JavaScript fetches the latest exchange rate from the API.
 
-#The result is displayed dynamically on the page.
+ - The result is displayed dynamically on the page.
 
-#License
+📄 License
 This project is open-source and available under the MIT License.
 
 🙋‍♀️ Contributing
